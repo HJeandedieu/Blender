@@ -1,0 +1,11 @@
+Model Information:
+* title:	A Viking Axe
+* source:	https://sketchfab.com/3d-models/a-viking-axe-11581778a4274881a579f7e610d814e5
+* author:	The SpezX (https://sketchfab.com/SpezX)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "A Viking Axe" (https://sketchfab.com/3d-models/a-viking-axe-11581778a4274881a579f7e610d814e5) by The SpezX (https://sketchfab.com/SpezX) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
